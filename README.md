@@ -15,6 +15,7 @@ This web app gives 5 multiple choice questions with a 60 second timer that subtr
 Nothing but a browser needs to be installed for this code to work.
 
 Navigating to https://daniel-edwards56.github.io/JavaQuiz/ is how to invoke this code.
+![alt text](https://github.com/Daniel-Edwards56/JavaQuiz/blob/main/Capture.PNG?raw=true)
 
 ## Questions
 
